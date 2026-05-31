@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tournament>
+    <id>5</id>
+    <name>Australian Open</name>
+    <foundedYear>1905</foundedYear>
+    <prizeMoney>75000000.00</prizeMoney>
+    <surface>HARD</surface>
+    <imagePath>assets/ao.png</imagePath>
+    <hostCountry>
+        <id>1</id>
+        <name>Croatia</name>
+    </hostCountry>
+    <category>
+        <id>1</id>
+        <name>Grand Slam</name>
+    </category>
+    <players/>
+    <sponsors/>
+</tournament>
